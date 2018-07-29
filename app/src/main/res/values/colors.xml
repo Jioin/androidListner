@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+
+    <color name="background">#E9F0F9</color>
+    <color name="selected">#E9F0F9</color>
+    <color name="primary">#4156CC</color>
+    <color name="primaryDark">#0F4AB3</color>
+    <color name="statusBar">#151CA7</color>
+    <color name="colorAccent">#ACCFF3</color>
+    <color name="normal">#4156Ce</color>
+    <color name="controlHighlight">#151CA7</color>
+    <color name="controlActivated">#151CA7</color>
+    <color name="text">#FDFEFF</color>
+    <color name="textPrimary">#FDFEFF</color>
+
+
+</resources>
